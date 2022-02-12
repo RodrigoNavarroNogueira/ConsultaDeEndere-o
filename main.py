@@ -1,5 +1,6 @@
 import requests
 
+
 def mensagem_de_abertura():
 	print('*-' * 30)
 	print(f'{" Consulta de Endereço ":=^60}')
